@@ -50,19 +50,7 @@ Here are the ASCII art representations for **Rock**, **Paper**, and **Scissors**
 ---.__(___)
 ```
 
-## Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PrernaUpadhyay/Rock_Paper_Scissors.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Rock_Paper_Scissors
-   ```
-3. Run the Python script:
-   ```bash
-   python rock_paper_scissors.py
    ```
 
 ## Usage
